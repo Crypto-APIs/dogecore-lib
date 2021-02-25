@@ -14,11 +14,11 @@ Litecoin is a powerful new peer-to-peer platform for the next generation of fina
 ## Get Started
 
 ```
-npm install litecore-lib
+npm install Crypto-APIs/dogecore-lib
 ```
 
 ```
-bower install litecore-lib
+bower install Crypto-APIs/dogecore-lib
 ```
 
 ## Documentation
